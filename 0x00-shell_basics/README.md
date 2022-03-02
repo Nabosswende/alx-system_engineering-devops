@@ -6,3 +6,4 @@
 *Displaying current directory contents in long format with user and group IDs displayed numerically and hidden files*
 *Creating a directory named my_first_directory in the /tmp/ directory.*
 *Moving the file betty from /tmp/ to /tmp/my_first_directory*
+*Deleting the file betty*
