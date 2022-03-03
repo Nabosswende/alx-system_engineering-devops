@@ -8,3 +8,4 @@
 **Writting a script that adds execution permission to the owner, the group owner and the other users, to the file hello**<br>
 **Writting a script that sets the permission to the file hello**<br>
 **Writting a script that sets the mode of the file hello**<br>
+**Writting a script that sets the mode of the file hello the same as olleh’s mode.**<br>
