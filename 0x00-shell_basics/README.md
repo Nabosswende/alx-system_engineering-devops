@@ -13,3 +13,4 @@
  and the /boot directory (in this order), in long format.*
 *Printing the type of the file named iamafile.*
 *Creating a symbolic link to /bin/ls*
+*Creating a script that moves all files beginning with an uppercase letter to the directory /tmp/u.*
