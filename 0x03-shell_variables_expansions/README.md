@@ -5,3 +5,4 @@
 **Creating a script that lists environment variables.**<br>
 **Creating a script that lists all local variables and environment variables, and functions.**<br>
 **Creating a script that creates a new local variable.**<br>
+**Creating a script that creates a new global variable.**<br>
